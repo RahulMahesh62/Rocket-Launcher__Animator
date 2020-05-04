@@ -1,2 +1,2 @@
 # Rocket-Launcher__Animator
-A Rocket 🚀🚀🚀 Lauck animamtion made using CSS Animations
+A Rocket 🚀🚀🚀 Launcher animation made using CSS Animations. Although a simple project it helped me undestand better the different animations that can be made using CSS.
